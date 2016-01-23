@@ -1,5 +1,5 @@
-class roles::infrastructure {
-   include profiles::elkelasticsearch.
+class roles::elkstack {
+   include profiles::elkelasticsearch
    include profiles::elklogstash
-   include profiles::kibana
+   include profiles::elkkibana
 }
