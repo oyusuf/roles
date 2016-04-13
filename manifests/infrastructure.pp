@@ -1,5 +1,5 @@
 class roles::infrastructure {
-   include profiles::dn-hosts
+#   include profiles::dn-hosts
    include profiles::dn-sudoers
    include profiles::dn-resolv
    include profiles::dn-users
