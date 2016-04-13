@@ -1,3 +1,3 @@
-class roles::infrastructure {
+class roles::jenkins {
    include profiles::dn-jenkins
 }
