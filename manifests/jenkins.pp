@@ -1,3 +1,3 @@
 class roles::jenkins {
-   include profiles::dn-jenkins
+   include profiles::dnjenkins
 }
