@@ -4,6 +4,4 @@ class roles::infrastructure {
    include profiles::dnhosts
    include profiles::dnusers
    include profiles::dnntp
-   include profiles::dncheckmk
-   include profiles::dnxinetd 
 }
