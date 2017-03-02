@@ -1,3 +1,3 @@
-class roles::jenkins {
+class roles::websphere {
    include profiles::wassilent
 }
