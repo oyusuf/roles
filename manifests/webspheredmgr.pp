@@ -1,3 +1,3 @@
-class roles::websphere {
+class roles::webspheredmgr {
    include profiles::wasdmgr
 }
